@@ -1,0 +1,8 @@
+__pycache__/
+.venv
+.vscode
+*.tif
+*.gpkg
+*.xml
+*.txt
+*.pth
